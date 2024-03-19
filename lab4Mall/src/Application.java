@@ -7,9 +7,9 @@ public class Application {
         CreditCard creditCard = new CreditCard("Maria Ionescu");
 
         ShoppingMall mall = new ShoppingMall(debitCard);
-        mall.achizitie(300); // Achiziție cu cardul de debit
+        mall.achizitie(300);
 
         mall = new ShoppingMall(creditCard);
-        mall.achizitie(600); // Achiziție cu cardul de credit
+        mall.achizitie(600);
     }
 }
