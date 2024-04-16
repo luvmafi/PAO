@@ -1,0 +1,6 @@
+Popescu;Ion;34;1500;EUR
+Ionescu;Maria;29;2100;USD
+Popescu;Ion;45;1800;EUR
+Vasilescu;Ioana;31;1700;RON
+Ionescu;Maria;42;2200;USD
+Popescu;Ion;34;1950;EUR

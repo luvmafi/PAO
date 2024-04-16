@@ -1,0 +1,5 @@
+Maftei;Stefan;20;1999;Lei
+Maftei;Neculai;50;1200;Euro
+Maftei;Stefan;20;2000;Lei
+Maftei;Stefan;21;1928;Euro
+Maftei;Stefan;19;1100;USD

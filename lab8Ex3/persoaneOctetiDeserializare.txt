@@ -1,0 +1,2 @@
+Person{nume='Maftei', prenume='Stefan', varsta=20, suma=1999, valuta='USD'}
+Person{nume='Maftei', prenume='Neculai', varsta=50, suma=1234, valuta='EUR'}
