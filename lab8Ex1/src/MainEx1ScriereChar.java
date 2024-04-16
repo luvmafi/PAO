@@ -36,6 +36,7 @@ public class MainEx1ScriereChar {
                 } catch (SumTooHighException e) {
                     System.out.println(e.getMessage());
                     continue;
+                    
                 } catch (NumberFormatException e) {
                     System.out.println("Varsta si suma trebuie sa fie numere valide.");
                 }
